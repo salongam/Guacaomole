@@ -1,4 +1,3 @@
-/****** Script for SelectTopNRows command from SSMS  ******/
 /*all ARCH Weeks*/
 SELECT distinct form_group_id, form_group_name, year(completed_date) x
   FROM [omedash].[dbo].[vw_reflection]
@@ -19,4 +18,4 @@ SELECT distinct form_group_id, form_group_name, year(completed_date) x
 
   select *, year(completed_date) x
   from omedash.dbo.vw_reflection
-  where form_group_id = 7 and completed_date between '2017-01-01' and '2017-12-31' and section_label like '%SMART%'
+  where form_group_id = 7 and completed_date between '2020-01-01' and '2020-12-31' and section_label like '%SMART%'
