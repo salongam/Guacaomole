@@ -26,7 +26,7 @@ Combination: _**italics and bold**_
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 
-##Task List
+## Task List
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
