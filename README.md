@@ -16,7 +16,7 @@ It's very easy to make some words **bold** and other words *italic* with Markdow
 
 **Bold**: enclose text with two asterisks on each end.
 
-Combination: **italics and bold**
+Combination: _**italics and bold**_
   
   * Item 1
 * Item 2
